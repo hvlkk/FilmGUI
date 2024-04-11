@@ -2,9 +2,9 @@
 
 ## Description
 
-This repository contains the project I developed for AUEB's "Programming in C++" (INF232 - 3321) course, which I took in the winter semester of the 2022-23 academic year. The aim was to create a simple graphical interface for a hypothetical film browser, while making sole use of the [SGG library](https://github.com/cgaueb/sgg) in C++ for all graphical purposes.
+This repository contains the project I developed for AUEB's "Programming in C++" (INF232 - 3321) course, which I took in the winter semester of the 2022-23 academic year. The aim was to create a simple graphical interface for a hypothetical film browser, while making sole use of the [SGG library](https://github.com/cgaueb/sgg) for all graphical purposes.
 
-This project was developed over a little less than 2 weeks between late December 2022 and early January 2023. No version control system was used during development, meaning there is no commit history for the project.
+This project was developed over approximately 2 weeks between late December 2022 and early January 2023. No version control system was used during development, meaning there is no commit history for the project.
 
 ## Widgets
 
