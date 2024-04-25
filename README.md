@@ -8,13 +8,13 @@ This project was developed over approximately 2 weeks between late December 2022
 
 ## Widgets
 
-The following widgets were implemented:
+The following widgets were implemented from scratch:
 
 - **Sliders**: Two sliders were implemented in the advanced search page, which can be used to set custom lower and upper bounds for the release year of a film.
 
 - **Text Fields**:
-  - <u>Main Menu Search Bar</u>: The main menu search bar enables a user to filter films without heading to the advanced search page. It filters based on a match on a film's title, a film's director, or a film's cast.
-  - <u>Advanced Search Text Fields</u>: There are three text fields available in the advanced search page. They allow filtering based on a film's title, director, actor, or any combination of these.
+  - <u>Main Menu Search Bar</u>: The main menu search bar enables a user to filter films without heading to the advanced search page. It filters based on a match on a film's title, director, or any cast member.
+  - <u>Advanced Search Text Fields</u>: There are three text fields available in the advanced search page. They allow filtering based on a film's title, director, actor, or any combination thereof.
 - **Buttons**:
   - <u>Genre Buttons</u>: Filtering based on genres is also allowed in the advanced search page. This can be achieved by clicking (and de-clicking) on any the buttons that correspond to the provided genres.
   - <u>Apply/Clear Filters</u>: Two rudimentary buttons were also included in the advanced search page, in order to apply and clear search filters respectively.
